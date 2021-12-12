@@ -1,4 +1,4 @@
-# Prova de Angular
+# Aplicativo Pomodoro
 
 Trata-se de um aplicativo bem simples, baseado no método de gerenciamento de tempo chamado Pomodoro. Para saber mais detalhes sobre esta técnica, consulte <a href="https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro">aqui</a>.
 
